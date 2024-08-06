@@ -24,7 +24,7 @@
 > An algorithm is a sequence of instructions that describes how to perform a computation."
 
 ### Flowchart Symbols
-![Flowchart Symbols](image.png)
+![Flowchart Symbols](Resources/image.png)
 
 ---
 
@@ -32,5 +32,5 @@
 In **Lab01**, we wrote a C# file to print a string.  
 You can find the implementation in `day1.cs` file in this directory.
 
-- **Question file:** `CP2024_Lab01_Algorithm_IntroC#.docx`
-- **My submitted file:** `Lab01_6731501110.pdf`
+- **Question file:** `Resources/CP2024_Lab01_Algorithm_IntroC#.docx`
+- **My submitted file:** `Resources/Lab01_6731501110.pdf`
