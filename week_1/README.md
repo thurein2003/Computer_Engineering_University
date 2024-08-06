@@ -1,28 +1,36 @@
-Teaching Team 
-1. Ajarn Pat 2.Ajarn Tong 3.Ajarn Ohm
+# University Notes
 
-MFU LMS - https://lms.mfu.ac.th
+## Teaching Team
+1. **Ajarn Pat**
+2. **Ajarn Tong**
+3. **Ajarn Ohm**
 
-Online editor - https://dotnetfiddle.net/
+## Useful Links
+- **MFU LMS:** [https://lms.mfu.ac.th](https://lms.mfu.ac.th)
+- **Online Editor:** [https://dotnetfiddle.net/](https://dotnetfiddle.net/)
 
-------------------
-Example of Programing Language
+---
 
-- Low level language
-- High Level Language (compiler Language)
+## Example of Programming Languages
 
-Programer -> source Code -> Compiler -> Binary Machine Code -> Computer
+- **Low-Level Language**
+- **High-Level Language** (Compiler Language)
 
-" Algorithm is a representation of a solution to a problem.
-  A computer program describes a computation procedure as algorithm.
-  Algorithm is a swquence of instructions that describes how to perform a computation. "
+### The Programming Process
 
-![Flow Chat Symbols](image.png)
+### Algorithm
+> "An algorithm is a representation of a solution to a problem.  
+> A computer program describes a computation procedure as an algorithm.  
+> An algorithm is a sequence of instructions that describes how to perform a computation."
 
-**Lab01**
-We write the C# file to print the string!
-You can check that in day1.cs file in this directory.
+### Flowchart Symbols
+![Flowchart Symbols](image.png)
 
+---
 
-Question file is -> CP2024_Lab01_Algorithm_IntroC#.docx
-My submitted file is -> Lab01_6731501110.pdf
+## **Lab01**
+In **Lab01**, we wrote a C# file to print a string.  
+You can find the implementation in `day1.cs` file in this directory.
+
+- **Question file:** `CP2024_Lab01_Algorithm_IntroC#.docx`
+- **My submitted file:** `Lab01_6731501110.pdf`
