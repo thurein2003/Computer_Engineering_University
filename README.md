@@ -15,6 +15,9 @@ Our goal is to empower students by providing access to high-quality resources, i
 - **🛠️ Tools & Software**: Recommended software and tools for development
 - **🤝 Community Support**: Connect with fellow students and alumni
 
+**Notion Link**
+https://lavish-birth-09a.notion.site/Computer-Programing-f8347fd5506846279296812f4d5de9b1?pvs=4
+
 ## 🔗 Getting Started
 
 To get started, simply clone this repository to your local machine:
