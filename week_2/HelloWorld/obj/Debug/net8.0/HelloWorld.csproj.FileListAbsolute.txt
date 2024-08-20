@@ -1,0 +1,15 @@
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/thureinoo/Library/CloudStorage/OneDrive-school/MFU computer Engieering/week_2/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
